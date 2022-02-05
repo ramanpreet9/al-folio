@@ -208,7 +208,7 @@ scholar:
   last_name: Einstein
   first_name: [Albert, A.]
 
-  style: apa
+  style: assets/bibliography/ieee-with-url.csl
   locale: en
 
   source: /_bibliography/
