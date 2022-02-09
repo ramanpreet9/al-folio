@@ -29,6 +29,6 @@ His research contributions span deep learning algorithms, computer vision, 3D ma
 [comment]: # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 
-[cmu]: https://www.cmu.edu
-[uiuc]: https://www.uiuc.edu
-[i2r]: https://www.a-star.edu.sg/i2r/
+[comment]: # [cmu]: https://www.cmu.edu
+[comment]: # [uiuc]: https://www.uiuc.edu
+[comment]: # [i2r]: https://www.a-star.edu.sg/i2r/ 
