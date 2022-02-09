@@ -31,4 +31,4 @@ His research contributions span deep learning algorithms, computer vision, 3D ma
 
 [cmu]: https://www.cmu.edu
 [uiuc]: https://www.uiuc.edu
-[i2r]: https://www.a-star.edu.sg/i2r/
+[i2r]: https://www.a-star.edu.sg/i2r
