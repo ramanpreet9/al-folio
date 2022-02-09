@@ -11,7 +11,7 @@ profile:
     <p>ramanpreet9 at gmail . com </p>
     <p>1 Fusionopolis Way </p>
     <p>#21-01 Connexis (North) </p>
-	<p>Singapore, 138632 </p>
+    <p>Singapore, 138632 </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
