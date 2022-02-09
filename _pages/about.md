@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  Contact: >
+  address: >
 	  <p>ramanpreet9 at gmail . com </p>
     <p>1 Fusionopolis Way </p>
     <p>#21-01 Connexis (North) </p>
